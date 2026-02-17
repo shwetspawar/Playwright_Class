@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Playwright output
+playwright-report/
+test-results/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# IDE
+.idea/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Coverage
+coverage/
+
+# Temporary
+tmp/
+
+# npm package build
+dist/
